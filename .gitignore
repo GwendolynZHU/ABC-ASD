@@ -1,0 +1,7 @@
+### Previous README & data
+README_ABC.md
+ABC_output/
+input_data/
+candidate_regions/
+reference/
+__pycache__
